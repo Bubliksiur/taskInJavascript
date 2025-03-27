@@ -1,0 +1,28 @@
+main{
+	display: flex;
+	font-style: italic;
+}
+nav{
+	width: 30%;
+}
+
+section{
+	width: 70%;
+}
+nav ul {
+	list-style-type: none;
+}
+section button,
+section h1 {
+	text-transform: uppercase;
+}
+section div {
+	display: flex;
+	flex-direction: column;
+}
+section label{
+	margin: 10px 0;
+}
+section button {
+	margin-right: 20px;
+}
